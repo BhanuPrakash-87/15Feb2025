@@ -5,3 +5,4 @@ line 4
 line 5
 adding line 6 from local
 line 6 from repo
+line 7 from repo
